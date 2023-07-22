@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Prepare lunch 2",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "text": "do exercise",
+      "completed": false
+    },
+    {
+      "id": "bd4e9f4e-b78c-42c7-85df-2e46eda6ffe7",
+      "text": "practice english",
+      "completed": false
+    },
+    {
+      "id": "019880c9-63a7-4e04-abd7-e9d826e4d348",
+      "text": "nueva tarea",
+      "completed": true
+    }
+  ]
+}
